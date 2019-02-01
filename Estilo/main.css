@@ -1,0 +1,28 @@
+img{
+
+	width: 150px;   /* largura da imagem */
+	height: 150px;  /*  altura da imagem  */
+	margin-top:10px; /* margem do topo */
+}
+
+
+body{
+	width: 90%;       /* largura do body */
+	text-align: center; /* texto centralizado*/
+	display: block;       
+}
+
+
+.corpo{
+	text-align: center; /* texto centralizado*/
+}
+
+
+.justificado{
+	width: 800px;   /* largura da div */
+	display: block;
+	align-items: center;/*Alinha o texto ao centro*/
+	justify-content: center;/*Alinha os itens flexíveis no centro */
+	text-align: justify;
+	margin: auto;
+}

@@ -1,0 +1,40 @@
+body{
+	margin: 30px;
+	font-family: Century Gothic;
+	padding: 10px;
+	margin-top: 0px;
+}
+img{                 /* largura e altura da imagem*/
+	width: 30%;
+	height: 30%;
+}
+.center{               /*alinhamento da imagem e de todo texto*/
+	text-align: center;
+}
+p{
+	font-size: 11pt;
+}
+div#linha1{       /* Primeira linha cumprimento e cor*/
+	background-color: black;
+	width: 100%;
+	height: 1px;
+}
+div#linha2{     /*  linha cumprimento e cor*/
+	margin-top: 2px;
+	background-color: black;
+	width: 100%;
+	height: 3px;
+}
+.negrito{     /*Partes com negrito*/
+	font-weight: bold;
+}
+.right{
+	text-align: right;
+}
+.left{ 
+	text-align: left;
+}
+.justificar{               /* Paragrafos justificados*/
+	text-align: justify;
+	text-indent: 1.5em;
+}

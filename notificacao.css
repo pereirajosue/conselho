@@ -1,0 +1,61 @@
+body{
+	margin-top:0px;/*espaçamento ao topo*/
+	font-family: Century Gothic;
+	padding:10px;/*espaçamento das laterais*/
+}
+.centro{      
+	text-align:center; 
+}
+p{
+	text-align: center;/
+}
+.tituloNegri{
+	font-weight: bold; /*texto em negrito*/
+}
+div#linha{
+	background-color: black;
+	width:46%; /*largura da 1 linha*/
+	height:2px;/*altura da linha*/
+	margin: auto;/*define a margem da linha*/
+	margin-bottom:2px;/*define a mergen inferior da linha*/
+	
+}
+div#linha2{
+	margin-top: 10px;
+	background-color: black;
+	width:46%;/*largura da 2 linha*/
+	height:5px;/*altura da linha*/
+	margin: auto;/*define a margem da linha*/
+
+}
+h1{
+	text-align: center;
+	margin-top: 2px;
+}
+.text{
+	font-size: 14pt;/*tamanho da fonte do corpo*/
+	text-align: left;/*alinhamento do texto a esquerda*/
+	width:45%;/*largura do texto*/
+	align-items: center; 
+	justify-content: center; 
+	text-align: justify;
+	margin: auto; 
+}
+.font{
+	font-size: 14pt;/*tamanho da fonte do corpo*/
+	text-align: left;/*alinhamento do texto a esquerda*/
+	width:45%;/*largura do texto*/
+	align-items: center;
+	justify-content: center; /*Alinhar os itens flexíveis no centro */
+	text-align: justify;
+	margin: auto;
+}
+.font2{
+	font-size: 14pt;/*tamanho da fonte*/
+	text-align: left;/*alinhamento do texto a esquerda*/
+	width:45%;/*largura do texto*/
+	align-items: center;
+	justify-content: center;
+	text-align:center;
+	margin: auto;
+}
